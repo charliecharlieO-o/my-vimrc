@@ -36,6 +36,8 @@ git clone git@github.com:Xuyuanp/nerdtree-git-plugin.git
 git clone git@github.com:airblade/vim-gitgutter.git
 git clone git@github.com:junegunn/fzf.git
 git clone git@github.com:junegunn/fzf.vim.git
+git clone git@github.com:dmerejkowsky/vim-ale.git
+git clone git@github.com:fatih/vim-go.git
 ```
 
 ## Docs
